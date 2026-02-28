@@ -1,7 +1,18 @@
 h1{
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #000080;
+    width: 600px;
+    color: #FBFBFB;
+    margin-bottom: 39px;
 }
 
 li{
     font-family:Arial, Helvetica, sans-serif ;
+    color:#000080;
+}
+
+a{
+    color:#000080;
 }
